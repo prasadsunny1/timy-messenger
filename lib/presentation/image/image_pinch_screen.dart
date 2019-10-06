@@ -1,4 +1,5 @@
 import "package:flutter/material.dart";
+import 'package:pinch_zoom_image/pinch_zoom_image.dart';
 import "package:transparent_image/transparent_image.dart";
 
 class ImagePinchScreen extends StatelessWidget {
@@ -9,9 +10,11 @@ class ImagePinchScreen extends StatelessWidget {
     return SafeArea(
       child: GestureDetector(
         child: 
-          FadeInImage.memoryNetwork(
-            image: url,
-            placeholder: kTransparentImage,
+          PinchZoomImage(
+              image: FadeInImage.memoryNetwork(
+              image: url,
+              placeholder: kTransparentImage,
+            ),
           ),
         
         onTap: () {
