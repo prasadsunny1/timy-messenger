@@ -11,7 +11,7 @@ const { db } = require('./admin');
 **/
 
 const deleteChannelUser = functions
-    .region('europe-west1')
+    .region('us-central1')
     .firestore
     .document('/groups/{groupId}/channels/{channelId}/users/{userId}')
     .onDelete(async (snap, context) => {

@@ -21,7 +21,7 @@ async function sendUpdateToRSVPAuthor(authorId, updatingMemberName, rsvpType, gr
 }
 
 const rsvpUpdate = functions
-    .region('europe-west1')
+    .region('us-central1')
     .firestore.document('/groups/{groupId}/channels/{channelId}/users/{userId}')
     .onUpdate(async (change, context) => {
         const userBefore = change.before.data();

@@ -2,7 +2,7 @@ const functions = require('firebase-functions');
 const sendPushForNewReaction = require('./reaction-push');
 
 const updatedMessages = functions
-    .region('europe-west1')
+    .region('us-central1')
     .firestore
     .document('/groups/{groupId}/channels/{channelId}/messages/{messageId}')
     .onUpdate(async (change, context) => {

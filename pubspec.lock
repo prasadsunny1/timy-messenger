@@ -210,7 +210,7 @@ packages:
       name: firebase_messaging
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "5.1.5"
+    version: "5.1.6"
   firebase_storage:
     dependency: "direct main"
     description:
@@ -489,13 +489,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.4.0"
-  pinch_zoom_image:
-    dependency: "direct main"
-    description:
-      name: pinch_zoom_image
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.2.5"
   platform:
     dependency: transitive
     description:

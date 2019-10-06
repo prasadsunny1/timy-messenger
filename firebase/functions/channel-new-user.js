@@ -70,7 +70,7 @@ async function pushToInvitedChannelUser(channelUserData, groupId, channelId) {
  */
 
 const newChannelUser = functions
-    .region('europe-west1')
+    .region('us-central1')
     .firestore
     .document('/groups/{groupId}/channels/{channelId}/users/{userId}')
     .onCreate(async (snap, context) => {

@@ -2,7 +2,7 @@ const functions = require('firebase-functions');
 const { deleteCalendarEntry } = require('./calendar-update');
 
 const deleteChannel = functions
-    .region('europe-west1')
+    .region('us-central1')
     .firestore
     .document('/groups/{groupId}/channels/{channelId}')
     .onDelete(async (snap, context) => {

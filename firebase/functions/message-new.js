@@ -12,7 +12,7 @@ const { sendNewMessagePush } = require('./push-send');
  * @type {CloudFunction<DocumentSnapshot>}
  */
 const newMessages = functions
-    .region('europe-west1')
+    .region('us-central1')
     .firestore
     .document('/groups/{groupId}/channels/{channelId}/messages/{messageId}')
     .onCreate(async (snap, context) => {

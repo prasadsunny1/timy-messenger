@@ -39,7 +39,7 @@ async function sendPushToChannelUsers(author, groupId, channelId, channelName, c
  * - Send push notification to channel users except author notifying about changes
  */
 const editChannel = functions
-    .region('europe-west1')
+    .region('us-central1')
     .firestore
     .document('/groups/{groupId}/channels/{channelId}')
     .onUpdate(async (change, context) => {

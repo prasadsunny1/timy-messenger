@@ -71,7 +71,7 @@ async function sendPushToGroupForOpenChannel(channelData, groupId, channelId, au
 }
 
 const newChannel = functions
-    .region('europe-west1')
+    .region('us-central1')
     .firestore
     .document('/groups/{groupId}/channels/{channelId}')
     .onCreate(async (snap, context) => {

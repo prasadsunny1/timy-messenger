@@ -1,0 +1,299 @@
+{
+  "project_info": {
+    "project_number": "712032461827",
+    "firebase_url": "https://carddemo-92a80.firebaseio.com",
+    "project_id": "carddemo-92a80",
+    "storage_bucket": "carddemo-92a80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712032461827:android:b84bc263672c4766241a36",
+        "android_client_info": {
+          "package_name": "com.example.circles_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVP5FGmFQuBauNXOFpHh6Nu5sZP6CRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712032461827-4cv2q3sdelpgvhegiruouti1t9obo1av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jamontes79.firebase-sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712032461827:android:64c9bdc8cef06f23",
+        "android_client_info": {
+          "package_name": "com.example.meetupfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVP5FGmFQuBauNXOFpHh6Nu5sZP6CRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712032461827-4cv2q3sdelpgvhegiruouti1t9obo1av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jamontes79.firebase-sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712032461827:android:00dd3c73a4e2a773",
+        "android_client_info": {
+          "package_name": "com.ibhavikmakwana.cricketteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVP5FGmFQuBauNXOFpHh6Nu5sZP6CRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712032461827-4cv2q3sdelpgvhegiruouti1t9obo1av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jamontes79.firebase-sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712032461827:android:1bf7180db061f771",
+        "android_client_info": {
+          "package_name": "com.jamontes79.firebase_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVP5FGmFQuBauNXOFpHh6Nu5sZP6CRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712032461827-4cv2q3sdelpgvhegiruouti1t9obo1av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jamontes79.firebase-sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712032461827:android:b4d528d47e32cb3f241a36",
+        "android_client_info": {
+          "package_name": "de.janoodle.circlesApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVP5FGmFQuBauNXOFpHh6Nu5sZP6CRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712032461827-4cv2q3sdelpgvhegiruouti1t9obo1av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jamontes79.firebase-sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712032461827:android:3283905af274c33e241a36",
+        "android_client_info": {
+          "package_name": "de.janoodle.circlesApp.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVP5FGmFQuBauNXOFpHh6Nu5sZP6CRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712032461827-4cv2q3sdelpgvhegiruouti1t9obo1av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jamontes79.firebase-sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712032461827:android:06cfd118b5a2a8e0",
+        "android_client_info": {
+          "package_name": "xyz.prasadsunny1.cricketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVP5FGmFQuBauNXOFpHh6Nu5sZP6CRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712032461827-4cv2q3sdelpgvhegiruouti1t9obo1av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jamontes79.firebase-sample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712032461827:android:077e7d3475c4820c",
+        "android_client_info": {
+          "package_name": "xyz.prasadsunny1.tweettag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqVP5FGmFQuBauNXOFpHh6Nu5sZP6CRvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712032461827-dlpqvff57t008ku8t0cr0mliivu2dcag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712032461827-4cv2q3sdelpgvhegiruouti1t9obo1av.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jamontes79.firebase-sample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -142,7 +142,7 @@ const runtimeOpts = {
  */
 const notifyAboutUpcomingEventsToday =
   functions.runWith(runtimeOpts)
-    .region('europe-west1')
+    .region('us-central1')
     .pubsub
     .schedule('every 60 minutes')
     .timeZone('UTC')
@@ -159,7 +159,7 @@ const notifyAboutUpcomingEventsToday =
  * NOTE: This will only work as long as events without a set time have a time default of 23:59.
  */
 const notifyAboutUpcomingEventsTomorrow = functions.runWith(runtimeOpts)
-  .region('europe-west1')
+  .region('us-central1')
   .pubsub
   .schedule('every day 20:00')
   .timeZone('Europe/Berlin')

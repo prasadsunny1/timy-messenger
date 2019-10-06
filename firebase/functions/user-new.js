@@ -2,7 +2,7 @@ const functions = require('firebase-functions');
 const { db } = require('./admin');
 
 const newUser = functions
-    .region('europe-west1')
+    .region('us-central1')
     .firestore
     .document('/users/{userId}')
     .onCreate(async (snapshot, context) => {
