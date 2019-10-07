@@ -77,7 +77,7 @@ Please copy the `User-UID` of the created user. We’ll need to add this ID to a
 
 
 ### B2. Create and setup database
-In the firebase console select `Database` under `Develop`  and create a Realtime Database in region `eur3 (europe-west)`.
+In the firebase console select `Database` under `Develop`  and create a Cloud Firestore Database in region `eur3 (europe-west)`.
 
 *Note: To use the app you’ll need to create a group. A “Group” is similar to e.g. a “Team” in Slack. To create one:* 
 
@@ -164,10 +164,14 @@ The app is setup to work with a development and production environment. We sugge
 
 When building for release the app will automatically use the production configuration that you’ve configured in step `B3`.
 
+# External resources
+
+- [Timy Messenger in itsallwidgets.com](https://itsallwidgets.com/timy-messenger)
+- [Building a Messaging App in Flutter — Part I: Project Structure](https://medium.com/@MiBLT/building-a-messaging-app-in-flutter-part-i-project-structure-7d6db38783a5)
 
 # About
 
-The concept for Timy was created and developed by [kaalita](https://github.com/orgs/janoodleFTW/people/kaalita) and [philippmoeser](https://github.com/orgs/janoodleFTW/people/philippmoeser).
+The concept for Timy was created and developed by [kaalita](https://github.com/kaalita) and [philippmoeser](https://github.com/philippmoeser).
 The the initial version is a MVP messaging app focusing on organising events among groups.
 
 We hope this project can be a reference or building block for your next flutter app. 🚀
